@@ -1,5 +1,13 @@
 # Markdown Links
 
+![Diagrama](https://www.lucidchart.com/publicSegments/view/1ccf6d0b-b3e8-44c3-8642-4d717103dcb7/image.png)
+
+
+
+
+
+
+
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
