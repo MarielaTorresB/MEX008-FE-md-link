@@ -3,11 +3,14 @@
   "version": "0.1.0",
   "description": "## Índice",
   "main": "index.js",
+  "bin": {
+    "md-links": "./cli.js"
+  },
   "directories": {
     "test": "jest"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,6 +23,9 @@
   },
   "homepage": "https://github.com/MarielaTorresB/MEX008-FE-md-link#readme",
   "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.9.0",
     "jest": "^24.9.0"
   }
 }
